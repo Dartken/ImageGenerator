@@ -2,7 +2,7 @@ import telebot
 import os
 from logic import ImgAPI
 
-API_TOKEN = '8706934648:AAESvVJYM-tweGJIF0KK_-gvoT3hlTx75bA'
+API_TOKEN = ''
 
 bot = telebot.TeleBot(API_TOKEN)
 
